@@ -1,0 +1,13 @@
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\TestTile_Collisions.exe
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\TestTile_Collisions.pdb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\xTile.dll
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\obj\x86\Debug\TestTile_Collisions.csprojResolveAssemblyReference.cache
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\obj\x86\Debug\TestTile_Collisions.exe
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\obj\x86\Debug\TestTile_Collisions.pdb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\Maps\TestMap.xnb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\blueGuard_walk_middle.xnb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\TileSheets\tileSheetSimple.xnb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\Maps\TestMap01.xnb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\Maps\TestMap_passable.xnb
+C:\Users\Me\Desktop\TestTile_Collisions\TestTile_Collisions\TestTile_Collisions\bin\x86\Debug\Content\guard_spriteSheet.xnb

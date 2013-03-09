@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTile_Collisions", "TestTile_Collisions\TestTile_Collisions\TestTile_Collisions.csproj", "{81473A7F-C647-4A7D-B515-FF17F7D65B92}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestTile_CollisionsContent", "TestTile_Collisions\TestTile_CollisionsContent\TestTile_CollisionsContent.contentproj", "{5D45135A-3A39-4C6B-BAD0-BB9CC670FCC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xTile", "xTile", "{DA64272A-EBCD-4B01-9E7A-EB536879AB47}"
+	ProjectSection(SolutionItems) = preProject
+		..\CMPT 306\Tile Map Generator Downloads\xTile206\Engine\PC\xTile.dll = ..\CMPT 306\Tile Map Generator Downloads\xTile206\Engine\PC\xTile.dll
+		..\CMPT 306\Tile Map Generator Downloads\xTile206\Pipeline\xTile.Pipeline.dll = ..\CMPT 306\Tile Map Generator Downloads\xTile206\Pipeline\xTile.Pipeline.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81473A7F-C647-4A7D-B515-FF17F7D65B92}.Debug|x86.ActiveCfg = Debug|x86
+		{81473A7F-C647-4A7D-B515-FF17F7D65B92}.Debug|x86.Build.0 = Debug|x86
+		{81473A7F-C647-4A7D-B515-FF17F7D65B92}.Release|x86.ActiveCfg = Release|x86
+		{81473A7F-C647-4A7D-B515-FF17F7D65B92}.Release|x86.Build.0 = Release|x86
+		{5D45135A-3A39-4C6B-BAD0-BB9CC670FCC3}.Debug|x86.ActiveCfg = Debug|x86
+		{5D45135A-3A39-4C6B-BAD0-BB9CC670FCC3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

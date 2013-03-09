@@ -1,0 +1,6 @@
+Content\Maps\TestMap.xnb
+Content\blueGuard_walk_middle.xnb
+Content\TileSheets\tileSheetSimple.xnb
+Content\Maps\TestMap01.xnb
+Content\Maps\TestMap_passable.xnb
+Content\guard_spriteSheet.xnb
